@@ -3,7 +3,7 @@ import json
 import urllib.request
 
 # --- CONFIGURATION ---
-CLAN_TAG = "#2Q2YLVCVV"  # Change this to your clan tag!
+CLAN_TAG = "#YOUR_CLAN_TAG_HERE"  # IMPORTANT: Change this back to your clan tag!
 API_TOKEN = os.environ.get("COC_TOKEN")
 PROXY_URL = "https://cocproxy.royaleapi.dev/v1/clans/"
 
@@ -16,11 +16,11 @@ def check_war_status():
     formatted_tag = CLAN_TAG.replace("#", "%23")
     url = f"{PROXY_URL}{formatted_tag}/currentwar"
     
+    # NEW: User-Agent added here to bypass the Cloudflare 403 Forbidden error!
     headers = {
         "Authorization": f"Bearer {API_TOKEN}",
         "Accept": "application/json",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    }
     }
     
     req = urllib.request.Request(url, headers=headers)
