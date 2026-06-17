@@ -18,7 +18,9 @@ def check_war_status():
     
     headers = {
         "Authorization": f"Bearer {API_TOKEN}",
-        "Accept": "application/json"
+        "Accept": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
     }
     
     req = urllib.request.Request(url, headers=headers)
