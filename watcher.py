@@ -4,7 +4,7 @@ import urllib.request
 import urllib.error
 
 # --- CONFIGURATION ---
-CLAN_TAG = "#YOUR_CLAN_TAG_HERE"  # IMPORTANT: Change this back to your clan tag!
+CLAN_TAG = "#2Q2YLVCVV"  # Your clan tag is now automatically loaded!
 API_TOKEN = os.environ.get("COC_TOKEN")
 PROXY_URL = "https://cocproxy.royaleapi.dev/v1/clans/"
 
@@ -45,7 +45,6 @@ def check_war_status():
     except urllib.error.HTTPError as e:
         print(f"HTTP Error {e.code}: {e.reason}")
         try:
-            # THE INTERCEPTOR: Extracts the hidden server message!
             error_body = e.read().decode('utf-8', errors='ignore')
             print(f"\n--- THE REAL REASON ---")
             print(error_body)
