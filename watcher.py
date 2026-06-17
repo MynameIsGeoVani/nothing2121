@@ -1,6 +1,7 @@
 import os
 import json
 import urllib.request
+import urllib.error
 
 # --- CONFIGURATION ---
 CLAN_TAG = "#YOUR_CLAN_TAG_HERE"  # IMPORTANT: Change this back to your clan tag!
@@ -12,40 +13,52 @@ def check_war_status():
         print("Error: API Token not found in the vault!")
         return
         
-    # Format the clan tag for the web URL (replace # with %23)
+    # AUTO-CLEANER: Fixes common copy/paste mistakes in the GitHub Secret Vault
+    clean_token = API_TOKEN.replace('"', '').replace("'", "").strip()
+    if clean_token.startswith("COC_TOKEN="):
+        clean_token = clean_token.replace("COC_TOKEN=", "")
+
     formatted_tag = CLAN_TAG.replace("#", "%23")
     url = f"{PROXY_URL}{formatted_tag}/currentwar"
     
-    # NEW: User-Agent added here to bypass the Cloudflare 403 Forbidden error!
     headers = {
-        "Authorization": f"Bearer {API_TOKEN}",
+        "Authorization": f"Bearer {clean_token}",
         "Accept": "application/json",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     
     req = urllib.request.Request(url, headers=headers)
+    
     try:
+        print("Connecting to Clash of Clans API...")
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
             
             state = data.get("state")
             print(f"Current war state: {state}")
             
-            # If the war has ended, we save it immediately!
             if state == "warEnded":
                 save_war_data(data)
             else:
                 print("War is still active or clan is not in war. Doing nothing.")
                 
+    except urllib.error.HTTPError as e:
+        print(f"HTTP Error {e.code}: {e.reason}")
+        try:
+            # THE INTERCEPTOR: Extracts the hidden server message!
+            error_body = e.read().decode('utf-8', errors='ignore')
+            print(f"\n--- THE REAL REASON ---")
+            print(error_body)
+            print(f"-----------------------\n")
+        except Exception:
+            print("Could not read hidden error body.")
     except Exception as e:
         print(f"Error fetching data: {e}")
 
 def save_war_data(data):
-    # Create a unique filename based on the exact time the war ended
     end_time = data.get("endTime", "unknown_time").replace(":", "")
     filename = f"warEnded_{end_time}.json"
     
-    # Save the file into the GitHub folder
     with open(filename, "w") as f:
         json.dump(data, f, indent=4)
         
