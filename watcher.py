@@ -75,7 +75,7 @@ def check_cwl_status(formatted_tag):
                 print(f"CWL Round State: {state}")
                 if state == "warEnded":
                     save_war_data(war_data, prefix="cwlEnded")
-                return # Found our clan's war for this round, move on
+                break # Found our clan's war for this round, move to the next round!
 
 def check_war_status():
     if not API_TOKEN:
