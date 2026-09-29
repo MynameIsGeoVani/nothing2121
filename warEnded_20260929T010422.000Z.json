@@ -1,0 +1,2341 @@
+{
+    "state": "warEnded",
+    "teamSize": 45,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20260927T020422.000Z",
+    "startTime": "20260928T010422.000Z",
+    "endTime": "20260929T010422.000Z",
+    "clan": {
+        "tag": "#2Q2YLVCVV",
+        "name": "WhatAnicePeople",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/fOJMB-Ebx6ioLsirE4O-HdUNEnud8j4K-RepDcAY3tk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/fOJMB-Ebx6ioLsirE4O-HdUNEnud8j4K-RepDcAY3tk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/fOJMB-Ebx6ioLsirE4O-HdUNEnud8j4K-RepDcAY3tk.png"
+        },
+        "clanLevel": 25,
+        "attacks": 53,
+        "stars": 118,
+        "destructionPercentage": 93.37778,
+        "members": [
+            {
+                "tag": "#20VLJ9URJ",
+                "name": "jschrein",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "attacks": [
+                    {
+                        "attackerTag": "#20VLJ9URJ",
+                        "defenderTag": "#P228GJY2C",
+                        "stars": 2,
+                        "destructionPercentage": 99,
+                        "order": 77,
+                        "duration": 164
+                    },
+                    {
+                        "attackerTag": "#20VLJ9URJ",
+                        "defenderTag": "#Q0QPRCGV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 79,
+                        "duration": 123
+                    }
+                ],
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#89GCVRQ",
+                "name": "arturo miranda",
+                "townhallLevel": 16,
+                "mapPosition": 42,
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LUL2L2YVY",
+                    "defenderTag": "#89GCVRQ",
+                    "stars": 2,
+                    "destructionPercentage": 56,
+                    "order": 17,
+                    "duration": 122
+                }
+            },
+            {
+                "tag": "#GJQ29P2C",
+                "name": "BuLLDoZeR",
+                "townhallLevel": 16,
+                "mapPosition": 20,
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LGLVYY2RJ",
+                    "defenderTag": "#GJQ29P2C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 101,
+                    "duration": 136
+                }
+            },
+            {
+                "tag": "#2JR2YVLCG",
+                "name": "SP\u00cfd\u00cbr",
+                "townhallLevel": 17,
+                "mapPosition": 9,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YJ2Q9P9RQ",
+                    "defenderTag": "#2JR2YVLCG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 25,
+                    "duration": 140
+                }
+            },
+            {
+                "tag": "#8008L28CG",
+                "name": "\u0645\u062d\u0645\u062f",
+                "townhallLevel": 16,
+                "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#8008L28CG",
+                        "defenderTag": "#YCY8029C8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 36,
+                        "duration": 147
+                    },
+                    {
+                        "attackerTag": "#8008L28CG",
+                        "defenderTag": "#YJ2GQ8YYQ",
+                        "stars": 2,
+                        "destructionPercentage": 85,
+                        "order": 41,
+                        "duration": 167
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PJCQV0GQL",
+                    "defenderTag": "#8008L28CG",
+                    "stars": 2,
+                    "destructionPercentage": 87,
+                    "order": 64,
+                    "duration": 106
+                }
+            },
+            {
+                "tag": "#YQL0CR8L2",
+                "name": "DanTiu33",
+                "townhallLevel": 17,
+                "mapPosition": 7,
+                "attacks": [
+                    {
+                        "attackerTag": "#YQL0CR8L2",
+                        "defenderTag": "#L0QV90P9",
+                        "stars": 1,
+                        "destructionPercentage": 84,
+                        "order": 2,
+                        "duration": 106
+                    },
+                    {
+                        "attackerTag": "#YQL0CR8L2",
+                        "defenderTag": "#GGRPLG2U2",
+                        "stars": 1,
+                        "destructionPercentage": 91,
+                        "order": 75,
+                        "duration": 115
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QU28Q2YYV",
+                    "defenderTag": "#YQL0CR8L2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 34,
+                    "duration": 160
+                }
+            },
+            {
+                "tag": "#QVLL8GCGJ",
+                "name": "\u611b|\u2022SAYMON",
+                "townhallLevel": 16,
+                "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#QVLL8GCGJ",
+                        "defenderTag": "#9L89QJP9L",
+                        "stars": 2,
+                        "destructionPercentage": 79,
+                        "order": 100,
+                        "duration": 97
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LUJJL098Q",
+                    "defenderTag": "#QVLL8GCGJ",
+                    "stars": 2,
+                    "destructionPercentage": 79,
+                    "order": 91,
+                    "duration": 162
+                }
+            },
+            {
+                "tag": "#QGJVJJYRY",
+                "name": "jonny",
+                "townhallLevel": 16,
+                "mapPosition": 28,
+                "attacks": [
+                    {
+                        "attackerTag": "#QGJVJJYRY",
+                        "defenderTag": "#Y2YPLQJ0L",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 51,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#QGJVJJYRY",
+                        "defenderTag": "#82JL9RC0L",
+                        "stars": 2,
+                        "destructionPercentage": 87,
+                        "order": 52,
+                        "duration": 178
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YCY8029C8",
+                    "defenderTag": "#QGJVJJYRY",
+                    "stars": 2,
+                    "destructionPercentage": 83,
+                    "order": 46,
+                    "duration": 177
+                }
+            },
+            {
+                "tag": "#2RGV8YVR8",
+                "name": "Flying DutchMan",
+                "townhallLevel": 16,
+                "mapPosition": 27,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#Y2YPLQJ0L",
+                    "defenderTag": "#2RGV8YVR8",
+                    "stars": 2,
+                    "destructionPercentage": 95,
+                    "order": 90,
+                    "duration": 121
+                }
+            },
+            {
+                "tag": "#GQ2QCLVP0",
+                "name": "lucky_star",
+                "townhallLevel": 16,
+                "mapPosition": 29,
+                "attacks": [
+                    {
+                        "attackerTag": "#GQ2QCLVP0",
+                        "defenderTag": "#QU9G8RV20",
+                        "stars": 2,
+                        "destructionPercentage": 75,
+                        "order": 22,
+                        "duration": 113
+                    },
+                    {
+                        "attackerTag": "#GQ2QCLVP0",
+                        "defenderTag": "#G8QJRQR2R",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 33,
+                        "duration": 105
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YCY8029C8",
+                    "defenderTag": "#GQ2QCLVP0",
+                    "stars": 2,
+                    "destructionPercentage": 99,
+                    "order": 48,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#PPJV80YP9",
+                "name": "drew",
+                "townhallLevel": 16,
+                "mapPosition": 25,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PCLGJ0VUC",
+                    "defenderTag": "#PPJV80YP9",
+                    "stars": 2,
+                    "destructionPercentage": 74,
+                    "order": 13,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#P2PLU0QP8",
+                "name": "MOHAN",
+                "townhallLevel": 17,
+                "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#P2PLU0QP8",
+                        "defenderTag": "#892Q002GR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 18,
+                        "duration": 122
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#892Q002GR",
+                    "defenderTag": "#P2PLU0QP8",
+                    "stars": 2,
+                    "destructionPercentage": 94,
+                    "order": 39,
+                    "duration": 148
+                }
+            },
+            {
+                "tag": "#9LP8UGCQJ",
+                "name": "pollob miya",
+                "townhallLevel": 16,
+                "mapPosition": 40,
+                "attacks": [
+                    {
+                        "attackerTag": "#9LP8UGCQJ",
+                        "defenderTag": "#G29Y99RY2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 37,
+                        "duration": 159
+                    },
+                    {
+                        "attackerTag": "#9LP8UGCQJ",
+                        "defenderTag": "#PQUQUP2PP",
+                        "stars": 2,
+                        "destructionPercentage": 84,
+                        "order": 38,
+                        "duration": 70
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GGRPLG2U2",
+                    "defenderTag": "#9LP8UGCQJ",
+                    "stars": 2,
+                    "destructionPercentage": 68,
+                    "order": 54,
+                    "duration": 144
+                }
+            },
+            {
+                "tag": "#G0PV8UY8U",
+                "name": "BAD BOY",
+                "townhallLevel": 16,
+                "mapPosition": 44,
+                "attacks": [
+                    {
+                        "attackerTag": "#G0PV8UY8U",
+                        "defenderTag": "#YQY09GQ0C",
+                        "stars": 1,
+                        "destructionPercentage": 54,
+                        "order": 88,
+                        "duration": 71
+                    },
+                    {
+                        "attackerTag": "#G0PV8UY8U",
+                        "defenderTag": "#9L89QJP9L",
+                        "stars": 1,
+                        "destructionPercentage": 58,
+                        "order": 89,
+                        "duration": 65
+                    }
+                ],
+                "opponentAttacks": 3,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YQY09GQ0C",
+                    "defenderTag": "#G0PV8UY8U",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 84,
+                    "duration": 97
+                }
+            },
+            {
+                "tag": "#C0GVUG20",
+                "name": "rangerover",
+                "townhallLevel": 16,
+                "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#C0GVUG20",
+                        "defenderTag": "#PCLGJ0VUC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 7,
+                        "duration": 147
+                    },
+                    {
+                        "attackerTag": "#C0GVUG20",
+                        "defenderTag": "#LU0LCPJV8",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 8,
+                        "duration": 91
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#G2LVLJP88",
+                    "defenderTag": "#C0GVUG20",
+                    "stars": 1,
+                    "destructionPercentage": 96,
+                    "order": 98,
+                    "duration": 133
+                }
+            },
+            {
+                "tag": "#8UJYJ8P88",
+                "name": "Aravinth mass",
+                "townhallLevel": 17,
+                "mapPosition": 22,
+                "attacks": [
+                    {
+                        "attackerTag": "#8UJYJ8P88",
+                        "defenderTag": "#L0QV90P9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 47,
+                        "duration": 78
+                    },
+                    {
+                        "attackerTag": "#8UJYJ8P88",
+                        "defenderTag": "#P0JU80CJC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 50,
+                        "duration": 101
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#82JL9RC0L",
+                    "defenderTag": "#8UJYJ8P88",
+                    "stars": 2,
+                    "destructionPercentage": 98,
+                    "order": 20,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#LC9Q0PLY0",
+                "name": "Senju",
+                "townhallLevel": 17,
+                "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#LC9Q0PLY0",
+                        "defenderTag": "#PJCQV0GQL",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 21,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#LC9Q0PLY0",
+                        "defenderTag": "#YJ2Q9P9RQ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 23,
+                        "duration": 128
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YJ2Q9P9RQ",
+                    "defenderTag": "#LC9Q0PLY0",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 24,
+                    "duration": 164
+                }
+            },
+            {
+                "tag": "#LQP02GCQ2",
+                "name": "Mandip",
+                "townhallLevel": 15,
+                "mapPosition": 43,
+                "attacks": [
+                    {
+                        "attackerTag": "#LQP02GCQ2",
+                        "defenderTag": "#L2VY8CP8L",
+                        "stars": 2,
+                        "destructionPercentage": 89,
+                        "order": 26,
+                        "duration": 112
+                    },
+                    {
+                        "attackerTag": "#LQP02GCQ2",
+                        "defenderTag": "#9RYU2VVUV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 85,
+                        "duration": 93
+                    }
+                ],
+                "opponentAttacks": 3,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YUYCL2LRV",
+                    "defenderTag": "#LQP02GCQ2",
+                    "stars": 2,
+                    "destructionPercentage": 91,
+                    "order": 10,
+                    "duration": 129
+                }
+            },
+            {
+                "tag": "#80QG2JLRV",
+                "name": "samar",
+                "townhallLevel": 16,
+                "mapPosition": 11,
+                "attacks": [
+                    {
+                        "attackerTag": "#80QG2JLRV",
+                        "defenderTag": "#GJ9Q8J00J",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 27,
+                        "duration": 137
+                    }
+                ],
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#Q0QPRCGV",
+                    "defenderTag": "#80QG2JLRV",
+                    "stars": 2,
+                    "destructionPercentage": 66,
+                    "order": 74,
+                    "duration": 161
+                }
+            },
+            {
+                "tag": "#L8CYR29G2",
+                "name": "tmm",
+                "townhallLevel": 16,
+                "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#L8CYR29G2",
+                        "defenderTag": "#9JPG8R9G9",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 92,
+                        "duration": 157
+                    },
+                    {
+                        "attackerTag": "#L8CYR29G2",
+                        "defenderTag": "#GGRPLG2U2",
+                        "stars": 2,
+                        "destructionPercentage": 87,
+                        "order": 93,
+                        "duration": 81
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YJ2GQ8YYQ",
+                    "defenderTag": "#L8CYR29G2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 4,
+                    "duration": 152
+                }
+            },
+            {
+                "tag": "#GPQL20QVP",
+                "name": "Titan",
+                "townhallLevel": 15,
+                "mapPosition": 36,
+                "attacks": [
+                    {
+                        "attackerTag": "#GPQL20QVP",
+                        "defenderTag": "#LRUG0U9JU",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 81,
+                        "duration": 94
+                    },
+                    {
+                        "attackerTag": "#GPQL20QVP",
+                        "defenderTag": "#LYRUV9QUY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 87,
+                        "duration": 179
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#Q0QPRCGV",
+                    "defenderTag": "#GPQL20QVP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 73,
+                    "duration": 137
+                }
+            },
+            {
+                "tag": "#GCCV22UJP",
+                "name": "rj Robi patowar",
+                "townhallLevel": 16,
+                "mapPosition": 21,
+                "attacks": [
+                    {
+                        "attackerTag": "#GCCV22UJP",
+                        "defenderTag": "#98C9Y8P0C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 56,
+                        "duration": 137
+                    },
+                    {
+                        "attackerTag": "#GCCV22UJP",
+                        "defenderTag": "#8QPJ8YVQL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 65,
+                        "duration": 148
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8PL2VJPU0",
+                    "defenderTag": "#GCCV22UJP",
+                    "stars": 2,
+                    "destructionPercentage": 93,
+                    "order": 95,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#2U9CLLV8V",
+                "name": "ridwan14",
+                "townhallLevel": 17,
+                "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#2U9CLLV8V",
+                        "defenderTag": "#GGVPC90R8",
+                        "stars": 2,
+                        "destructionPercentage": 84,
+                        "order": 63,
+                        "duration": 168
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PY8R2R9GL",
+                    "defenderTag": "#2U9CLLV8V",
+                    "stars": 2,
+                    "destructionPercentage": 72,
+                    "order": 59,
+                    "duration": 146
+                }
+            },
+            {
+                "tag": "#YGL92YVGY",
+                "name": "Unknown",
+                "townhallLevel": 17,
+                "mapPosition": 8,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PY8R2R9GL",
+                    "defenderTag": "#YGL92YVGY",
+                    "stars": 2,
+                    "destructionPercentage": 99,
+                    "order": 60,
+                    "duration": 146
+                }
+            },
+            {
+                "tag": "#2UQ8UUPPJ",
+                "name": "Dj",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#2UQ8UUPPJ",
+                        "defenderTag": "#QU28Q2YYV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 61,
+                        "duration": 87
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QU28Q2YYV",
+                    "defenderTag": "#2UQ8UUPPJ",
+                    "stars": 2,
+                    "destructionPercentage": 91,
+                    "order": 82,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#8J0P9UY2J",
+                "name": "Broken sOuL",
+                "townhallLevel": 15,
+                "mapPosition": 32,
+                "attacks": [
+                    {
+                        "attackerTag": "#8J0P9UY2J",
+                        "defenderTag": "#8L2VCRJUR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 28,
+                        "duration": 126
+                    },
+                    {
+                        "attackerTag": "#8J0P9UY2J",
+                        "defenderTag": "#LUL2L2YVY",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 29,
+                        "duration": 75
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PLPLQ2L0L",
+                    "defenderTag": "#8J0P9UY2J",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 16,
+                    "duration": 152
+                }
+            },
+            {
+                "tag": "#L9YGR98PY",
+                "name": "Valz14",
+                "townhallLevel": 15,
+                "mapPosition": 41,
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PQUQUP2PP",
+                    "defenderTag": "#L9YGR98PY",
+                    "stars": 2,
+                    "destructionPercentage": 69,
+                    "order": 44,
+                    "duration": 86
+                }
+            },
+            {
+                "tag": "#Q8CLV2VVC",
+                "name": "WatchGirlsPlay",
+                "townhallLevel": 15,
+                "mapPosition": 37,
+                "attacks": [
+                    {
+                        "attackerTag": "#Q8CLV2VVC",
+                        "defenderTag": "#YUYCL2LRV",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 94,
+                        "duration": 106
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L2VGUPR0C",
+                    "defenderTag": "#Q8CLV2VVC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 72,
+                    "duration": 169
+                }
+            },
+            {
+                "tag": "#R0RC0CQ2C",
+                "name": "HOSSAIN SOURAV",
+                "townhallLevel": 15,
+                "mapPosition": 35,
+                "attacks": [
+                    {
+                        "attackerTag": "#R0RC0CQ2C",
+                        "defenderTag": "#L2VY8CP8L",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 104,
+                        "duration": 142
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QYJ8Q09JV",
+                    "defenderTag": "#R0RC0CQ2C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 76,
+                    "duration": 120
+                }
+            },
+            {
+                "tag": "#92V8U28VR",
+                "name": "sumon",
+                "townhallLevel": 16,
+                "mapPosition": 38,
+                "attacks": [
+                    {
+                        "attackerTag": "#92V8U28VR",
+                        "defenderTag": "#QYJ8Q09JV",
+                        "stars": 1,
+                        "destructionPercentage": 65,
+                        "order": 35,
+                        "duration": 74
+                    },
+                    {
+                        "attackerTag": "#92V8U28VR",
+                        "defenderTag": "#YQY09GQ0C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 103,
+                        "duration": 124
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L2VGUPR0C",
+                    "defenderTag": "#92V8U28VR",
+                    "stars": 2,
+                    "destructionPercentage": 98,
+                    "order": 70,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#YVCCRPY80",
+                "name": "yo mama",
+                "townhallLevel": 17,
+                "mapPosition": 39,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GGRPLG2U2",
+                    "defenderTag": "#YVCCRPY80",
+                    "stars": 2,
+                    "destructionPercentage": 94,
+                    "order": 58,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#GUQ088QJR",
+                "name": "whoyay",
+                "townhallLevel": 16,
+                "mapPosition": 26,
+                "attacks": [
+                    {
+                        "attackerTag": "#GUQ088QJR",
+                        "defenderTag": "#L2VGUPR0C",
+                        "stars": 2,
+                        "destructionPercentage": 66,
+                        "order": 71,
+                        "duration": 91
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LYPPRCGJC",
+                    "defenderTag": "#GUQ088QJR",
+                    "stars": 2,
+                    "destructionPercentage": 84,
+                    "order": 12,
+                    "duration": 122
+                }
+            },
+            {
+                "tag": "#GL20PQ89J",
+                "name": "AMIR",
+                "townhallLevel": 16,
+                "mapPosition": 15,
+                "attacks": [
+                    {
+                        "attackerTag": "#GL20PQ89J",
+                        "defenderTag": "#LGYYGLR02",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 49,
+                        "duration": 120
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#YJ2GQ8YYQ",
+                    "defenderTag": "#GL20PQ89J",
+                    "stars": 2,
+                    "destructionPercentage": 98,
+                    "order": 3,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#LGLCJ9RGR",
+                "name": "fortnitetillidy",
+                "townhallLevel": 16,
+                "mapPosition": 17,
+                "attacks": [
+                    {
+                        "attackerTag": "#LGLCJ9RGR",
+                        "defenderTag": "#G2LVLJP88",
+                        "stars": 2,
+                        "destructionPercentage": 93,
+                        "order": 55,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#LGLCJ9RGR",
+                        "defenderTag": "#GYVL0RGC2",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 57,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#G2LVLJP88",
+                    "defenderTag": "#LGLCJ9RGR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 97,
+                    "duration": 117
+                }
+            },
+            {
+                "tag": "#GJ0G8YGQU",
+                "name": "LILA",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#98JPUJYRL",
+                "name": "koenigsegg",
+                "townhallLevel": 17,
+                "mapPosition": 30,
+                "attacks": [
+                    {
+                        "attackerTag": "#98JPUJYRL",
+                        "defenderTag": "#PLPLQ2L0L",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 19,
+                        "duration": 111
+                    },
+                    {
+                        "attackerTag": "#98JPUJYRL",
+                        "defenderTag": "#LGLVYY2RJ",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 69,
+                        "duration": 108
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#G8QJRQR2R",
+                    "defenderTag": "#98JPUJYRL",
+                    "stars": 2,
+                    "destructionPercentage": 85,
+                    "order": 68,
+                    "duration": 138
+                }
+            },
+            {
+                "tag": "#QY8J8P9PP",
+                "name": "Ben",
+                "townhallLevel": 16,
+                "mapPosition": 45,
+                "attacks": [
+                    {
+                        "attackerTag": "#QY8J8P9PP",
+                        "defenderTag": "#YQY09GQ0C",
+                        "stars": 1,
+                        "destructionPercentage": 50,
+                        "order": 66,
+                        "duration": 87
+                    },
+                    {
+                        "attackerTag": "#QY8J8P9PP",
+                        "defenderTag": "#9RYU2VVUV",
+                        "stars": 0,
+                        "destructionPercentage": 11,
+                        "order": 67,
+                        "duration": 12
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9L89QJP9L",
+                    "defenderTag": "#QY8J8P9PP",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 32,
+                    "duration": 109
+                }
+            },
+            {
+                "tag": "#Y0PVYP0VP",
+                "name": "keshav",
+                "townhallLevel": 15,
+                "mapPosition": 33,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L2VY8CP8L",
+                    "defenderTag": "#Y0PVYP0VP",
+                    "stars": 2,
+                    "destructionPercentage": 93,
+                    "order": 83,
+                    "duration": 153
+                }
+            },
+            {
+                "tag": "#YC022YU2P",
+                "name": "Vampire Don",
+                "townhallLevel": 16,
+                "mapPosition": 18,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LGLVYY2RJ",
+                    "defenderTag": "#YC022YU2P",
+                    "stars": 2,
+                    "destructionPercentage": 85,
+                    "order": 102,
+                    "duration": 176
+                }
+            },
+            {
+                "tag": "#PPV0GLRLL",
+                "name": "#YOW",
+                "townhallLevel": 17,
+                "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#PPV0GLRLL",
+                        "defenderTag": "#LUJJL098Q",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 5,
+                        "duration": 148
+                    },
+                    {
+                        "attackerTag": "#PPV0GLRLL",
+                        "defenderTag": "#PY8R2R9GL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 6,
+                        "duration": 117
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#892Q002GR",
+                    "defenderTag": "#PPV0GLRLL",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 40,
+                    "duration": 89
+                }
+            },
+            {
+                "tag": "#QJ2CRYLUG",
+                "name": "Ted",
+                "townhallLevel": 15,
+                "mapPosition": 34,
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L2VY8CP8L",
+                    "defenderTag": "#QJ2CRYLUG",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 80,
+                    "duration": 130
+                }
+            },
+            {
+                "tag": "#8RCCPCG98",
+                "name": "RRN",
+                "townhallLevel": 16,
+                "mapPosition": 12,
+                "attacks": [
+                    {
+                        "attackerTag": "#8RCCPCG98",
+                        "defenderTag": "#8PL2VJPU0",
+                        "stars": 2,
+                        "destructionPercentage": 68,
+                        "order": 9,
+                        "duration": 110
+                    },
+                    {
+                        "attackerTag": "#8RCCPCG98",
+                        "defenderTag": "#QYJ8Q09JV",
+                        "stars": 2,
+                        "destructionPercentage": 55,
+                        "order": 53,
+                        "duration": 116
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#82JL9RC0L",
+                    "defenderTag": "#8RCCPCG98",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 30,
+                    "duration": 161
+                }
+            },
+            {
+                "tag": "#GPL8LVU99",
+                "name": "Spy",
+                "townhallLevel": 16,
+                "mapPosition": 23,
+                "attacks": [
+                    {
+                        "attackerTag": "#GPL8LVU99",
+                        "defenderTag": "#LYPPRCGJC",
+                        "stars": 2,
+                        "destructionPercentage": 89,
+                        "order": 42,
+                        "duration": 127
+                    },
+                    {
+                        "attackerTag": "#GPL8LVU99",
+                        "defenderTag": "#L9YQ9U0Q2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 43,
+                        "duration": 89
+                    }
+                ],
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LYPPRCGJC",
+                    "defenderTag": "#GPL8LVU99",
+                    "stars": 2,
+                    "destructionPercentage": 83,
+                    "order": 11,
+                    "duration": 95
+                }
+            },
+            {
+                "tag": "#LGGL222RV",
+                "name": "Gen Price",
+                "townhallLevel": 15,
+                "mapPosition": 31,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PLPLQ2L0L",
+                    "defenderTag": "#LGGL222RV",
+                    "stars": 2,
+                    "destructionPercentage": 87,
+                    "order": 15,
+                    "duration": 160
+                }
+            },
+            {
+                "tag": "#Q8VGQYJQQ",
+                "name": "PROVA",
+                "townhallLevel": 16,
+                "mapPosition": 24,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PCLGJ0VUC",
+                    "defenderTag": "#Q8VGQYJQQ",
+                    "stars": 2,
+                    "destructionPercentage": 83,
+                    "order": 14,
+                    "duration": 122
+                }
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#R9JJ0GQ2",
+        "name": "B\u00e3\u0141\u00e4H\u0103 B\u00f8\u00dd",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ChTB043HLWoSDf8eT_qEjBwJznaJBLV4_B1SKD3A59w.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ChTB043HLWoSDf8eT_qEjBwJznaJBLV4_B1SKD3A59w.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ChTB043HLWoSDf8eT_qEjBwJznaJBLV4_B1SKD3A59w.png"
+        },
+        "clanLevel": 20,
+        "attacks": 53,
+        "stars": 100,
+        "destructionPercentage": 86.666664,
+        "members": [
+            {
+                "tag": "#9L89QJP9L",
+                "name": "\u00abSaMRat CJ\u00bb",
+                "townhallLevel": 15,
+                "mapPosition": 40,
+                "attacks": [
+                    {
+                        "attackerTag": "#9L89QJP9L",
+                        "defenderTag": "#G0PV8UY8U",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 31,
+                        "duration": 161
+                    },
+                    {
+                        "attackerTag": "#9L89QJP9L",
+                        "defenderTag": "#QY8J8P9PP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 32,
+                        "duration": 109
+                    }
+                ],
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QVLL8GCGJ",
+                    "defenderTag": "#9L89QJP9L",
+                    "stars": 2,
+                    "destructionPercentage": 79,
+                    "order": 100,
+                    "duration": 97
+                }
+            },
+            {
+                "tag": "#LRUG0U9JU",
+                "name": "Mr.Fritz",
+                "townhallLevel": 15,
+                "mapPosition": 37,
+                "attacks": [
+                    {
+                        "attackerTag": "#LRUG0U9JU",
+                        "defenderTag": "#LQP02GCQ2",
+                        "stars": 1,
+                        "destructionPercentage": 77,
+                        "order": 105,
+                        "duration": 76
+                    },
+                    {
+                        "attackerTag": "#LRUG0U9JU",
+                        "defenderTag": "#89GCVRQ",
+                        "stars": 1,
+                        "destructionPercentage": 31,
+                        "order": 106,
+                        "duration": 61
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GPQL20QVP",
+                    "defenderTag": "#LRUG0U9JU",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 81,
+                    "duration": 94
+                }
+            },
+            {
+                "tag": "#PLPLQ2L0L",
+                "name": "War Lord",
+                "townhallLevel": 15,
+                "mapPosition": 30,
+                "attacks": [
+                    {
+                        "attackerTag": "#PLPLQ2L0L",
+                        "defenderTag": "#LGGL222RV",
+                        "stars": 2,
+                        "destructionPercentage": 87,
+                        "order": 15,
+                        "duration": 160
+                    },
+                    {
+                        "attackerTag": "#PLPLQ2L0L",
+                        "defenderTag": "#8J0P9UY2J",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 16,
+                        "duration": 152
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#98JPUJYRL",
+                    "defenderTag": "#PLPLQ2L0L",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 19,
+                    "duration": 111
+                }
+            },
+            {
+                "tag": "#LUL2L2YVY",
+                "name": "eshayy",
+                "townhallLevel": 15,
+                "mapPosition": 34,
+                "attacks": [
+                    {
+                        "attackerTag": "#LUL2L2YVY",
+                        "defenderTag": "#L9YGR98PY",
+                        "stars": 1,
+                        "destructionPercentage": 90,
+                        "order": 1,
+                        "duration": 150
+                    },
+                    {
+                        "attackerTag": "#LUL2L2YVY",
+                        "defenderTag": "#89GCVRQ",
+                        "stars": 2,
+                        "destructionPercentage": 56,
+                        "order": 17,
+                        "duration": 122
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8J0P9UY2J",
+                    "defenderTag": "#LUL2L2YVY",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 29,
+                    "duration": 75
+                }
+            },
+            {
+                "tag": "#LUJJL098Q",
+                "name": "NISHA\u2764",
+                "townhallLevel": 17,
+                "mapPosition": 5,
+                "attacks": [
+                    {
+                        "attackerTag": "#LUJJL098Q",
+                        "defenderTag": "#QVLL8GCGJ",
+                        "stars": 2,
+                        "destructionPercentage": 79,
+                        "order": 91,
+                        "duration": 162
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PPV0GLRLL",
+                    "defenderTag": "#LUJJL098Q",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 5,
+                    "duration": 148
+                }
+            },
+            {
+                "tag": "#L9YQ9U0Q2",
+                "name": "Altra Volf",
+                "townhallLevel": 16,
+                "mapPosition": 24,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GPL8LVU99",
+                    "defenderTag": "#L9YQ9U0Q2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 43,
+                    "duration": 89
+                }
+            },
+            {
+                "tag": "#G8QJRQR2R",
+                "name": "Raj Bhai",
+                "townhallLevel": 16,
+                "mapPosition": 25,
+                "attacks": [
+                    {
+                        "attackerTag": "#G8QJRQR2R",
+                        "defenderTag": "#98JPUJYRL",
+                        "stars": 2,
+                        "destructionPercentage": 85,
+                        "order": 68,
+                        "duration": 138
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GQ2QCLVP0",
+                    "defenderTag": "#G8QJRQR2R",
+                    "stars": 2,
+                    "destructionPercentage": 74,
+                    "order": 33,
+                    "duration": 105
+                }
+            },
+            {
+                "tag": "#LGLVYY2RJ",
+                "name": "Daksh humar",
+                "townhallLevel": 16,
+                "mapPosition": 16,
+                "attacks": [
+                    {
+                        "attackerTag": "#LGLVYY2RJ",
+                        "defenderTag": "#GJQ29P2C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 101,
+                        "duration": 136
+                    },
+                    {
+                        "attackerTag": "#LGLVYY2RJ",
+                        "defenderTag": "#YC022YU2P",
+                        "stars": 2,
+                        "destructionPercentage": 85,
+                        "order": 102,
+                        "duration": 176
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#98JPUJYRL",
+                    "defenderTag": "#LGLVYY2RJ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 69,
+                    "duration": 108
+                }
+            },
+            {
+                "tag": "#QYJ8Q09JV",
+                "name": "\u00d7\u035c\u00d7\u1d4f\u1da6\u02e1\u02e1 \u02e0\u1d52\u1d58",
+                "townhallLevel": 16,
+                "mapPosition": 35,
+                "attacks": [
+                    {
+                        "attackerTag": "#QYJ8Q09JV",
+                        "defenderTag": "#R0RC0CQ2C",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 76,
+                        "duration": 120
+                    },
+                    {
+                        "attackerTag": "#QYJ8Q09JV",
+                        "defenderTag": "#QJ2CRYLUG",
+                        "stars": 1,
+                        "destructionPercentage": 91,
+                        "order": 78,
+                        "duration": 123
+                    }
+                ],
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8RCCPCG98",
+                    "defenderTag": "#QYJ8Q09JV",
+                    "stars": 2,
+                    "destructionPercentage": 55,
+                    "order": 53,
+                    "duration": 116
+                }
+            },
+            {
+                "tag": "#YQY09GQ0C",
+                "name": "NITUL",
+                "townhallLevel": 15,
+                "mapPosition": 45,
+                "attacks": [
+                    {
+                        "attackerTag": "#YQY09GQ0C",
+                        "defenderTag": "#G0PV8UY8U",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 84,
+                        "duration": 97
+                    },
+                    {
+                        "attackerTag": "#YQY09GQ0C",
+                        "defenderTag": "#LQP02GCQ2",
+                        "stars": 1,
+                        "destructionPercentage": 86,
+                        "order": 86,
+                        "duration": 122
+                    }
+                ],
+                "opponentAttacks": 3,
+                "bestOpponentAttack": {
+                    "attackerTag": "#92V8U28VR",
+                    "defenderTag": "#YQY09GQ0C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 103,
+                    "duration": 124
+                }
+            },
+            {
+                "tag": "#8PL2VJPU0",
+                "name": "sangam",
+                "townhallLevel": 17,
+                "mapPosition": 12,
+                "attacks": [
+                    {
+                        "attackerTag": "#8PL2VJPU0",
+                        "defenderTag": "#GCCV22UJP",
+                        "stars": 2,
+                        "destructionPercentage": 93,
+                        "order": 95,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#8PL2VJPU0",
+                        "defenderTag": "#GJQ29P2C",
+                        "stars": 1,
+                        "destructionPercentage": 14,
+                        "order": 96,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8RCCPCG98",
+                    "defenderTag": "#8PL2VJPU0",
+                    "stars": 2,
+                    "destructionPercentage": 68,
+                    "order": 9,
+                    "duration": 110
+                }
+            },
+            {
+                "tag": "#GGVPC90R8",
+                "name": "mohit",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2U9CLLV8V",
+                    "defenderTag": "#GGVPC90R8",
+                    "stars": 2,
+                    "destructionPercentage": 84,
+                    "order": 63,
+                    "duration": 168
+                }
+            },
+            {
+                "tag": "#YUYCL2LRV",
+                "name": "Labani",
+                "townhallLevel": 15,
+                "mapPosition": 39,
+                "attacks": [
+                    {
+                        "attackerTag": "#YUYCL2LRV",
+                        "defenderTag": "#LQP02GCQ2",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 10,
+                        "duration": 129
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#Q8CLV2VVC",
+                    "defenderTag": "#YUYCL2LRV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 94,
+                    "duration": 106
+                }
+            },
+            {
+                "tag": "#892Q002GR",
+                "name": "win",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "attacks": [
+                    {
+                        "attackerTag": "#892Q002GR",
+                        "defenderTag": "#P2PLU0QP8",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 39,
+                        "duration": 148
+                    },
+                    {
+                        "attackerTag": "#892Q002GR",
+                        "defenderTag": "#PPV0GLRLL",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 40,
+                        "duration": 89
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#P2PLU0QP8",
+                    "defenderTag": "#892Q002GR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 18,
+                    "duration": 122
+                }
+            },
+            {
+                "tag": "#P228GJY2C",
+                "name": "BIKI",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#20VLJ9URJ",
+                    "defenderTag": "#P228GJY2C",
+                    "stars": 2,
+                    "destructionPercentage": 99,
+                    "order": 77,
+                    "duration": 164
+                }
+            },
+            {
+                "tag": "#G2LVLJP88",
+                "name": "jeewan",
+                "townhallLevel": 16,
+                "mapPosition": 22,
+                "attacks": [
+                    {
+                        "attackerTag": "#G2LVLJP88",
+                        "defenderTag": "#LGLCJ9RGR",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 97,
+                        "duration": 117
+                    },
+                    {
+                        "attackerTag": "#G2LVLJP88",
+                        "defenderTag": "#C0GVUG20",
+                        "stars": 1,
+                        "destructionPercentage": 96,
+                        "order": 98,
+                        "duration": 133
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LGLCJ9RGR",
+                    "defenderTag": "#G2LVLJP88",
+                    "stars": 2,
+                    "destructionPercentage": 93,
+                    "order": 55,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#YCY8029C8",
+                "name": "\u2694\ufe0fSALLU BABA\u2694\ufe0f",
+                "townhallLevel": 16,
+                "mapPosition": 13,
+                "attacks": [
+                    {
+                        "attackerTag": "#YCY8029C8",
+                        "defenderTag": "#QGJVJJYRY",
+                        "stars": 2,
+                        "destructionPercentage": 83,
+                        "order": 46,
+                        "duration": 177
+                    },
+                    {
+                        "attackerTag": "#YCY8029C8",
+                        "defenderTag": "#GQ2QCLVP0",
+                        "stars": 2,
+                        "destructionPercentage": 99,
+                        "order": 48,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8008L28CG",
+                    "defenderTag": "#YCY8029C8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 36,
+                    "duration": 147
+                }
+            },
+            {
+                "tag": "#8L2VCRJUR",
+                "name": "Aspect",
+                "townhallLevel": 15,
+                "mapPosition": 33,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8J0P9UY2J",
+                    "defenderTag": "#8L2VCRJUR",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 28,
+                    "duration": 126
+                }
+            },
+            {
+                "tag": "#P0JU80CJC",
+                "name": "anand",
+                "townhallLevel": 16,
+                "mapPosition": 11,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8UJYJ8P88",
+                    "defenderTag": "#P0JU80CJC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 50,
+                    "duration": 101
+                }
+            },
+            {
+                "tag": "#G29Y99RY2",
+                "name": "mdripon",
+                "townhallLevel": 16,
+                "mapPosition": 42,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9LP8UGCQJ",
+                    "defenderTag": "#G29Y99RY2",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 37,
+                    "duration": 159
+                }
+            },
+            {
+                "tag": "#PY8R2R9GL",
+                "name": "shetani kanudo",
+                "townhallLevel": 16,
+                "mapPosition": 6,
+                "attacks": [
+                    {
+                        "attackerTag": "#PY8R2R9GL",
+                        "defenderTag": "#2U9CLLV8V",
+                        "stars": 2,
+                        "destructionPercentage": 72,
+                        "order": 59,
+                        "duration": 146
+                    },
+                    {
+                        "attackerTag": "#PY8R2R9GL",
+                        "defenderTag": "#YGL92YVGY",
+                        "stars": 2,
+                        "destructionPercentage": 99,
+                        "order": 60,
+                        "duration": 146
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#PPV0GLRLL",
+                    "defenderTag": "#PY8R2R9GL",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 6,
+                    "duration": 117
+                }
+            },
+            {
+                "tag": "#LYPPRCGJC",
+                "name": "X\u018f\u00d1\u0152M",
+                "townhallLevel": 17,
+                "mapPosition": 23,
+                "attacks": [
+                    {
+                        "attackerTag": "#LYPPRCGJC",
+                        "defenderTag": "#GPL8LVU99",
+                        "stars": 2,
+                        "destructionPercentage": 83,
+                        "order": 11,
+                        "duration": 95
+                    },
+                    {
+                        "attackerTag": "#LYPPRCGJC",
+                        "defenderTag": "#GUQ088QJR",
+                        "stars": 2,
+                        "destructionPercentage": 84,
+                        "order": 12,
+                        "duration": 122
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GPL8LVU99",
+                    "defenderTag": "#LYPPRCGJC",
+                    "stars": 2,
+                    "destructionPercentage": 89,
+                    "order": 42,
+                    "duration": 127
+                }
+            },
+            {
+                "tag": "#LU0LCPJV8",
+                "name": "hit raghul",
+                "townhallLevel": 16,
+                "mapPosition": 20,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#C0GVUG20",
+                    "defenderTag": "#LU0LCPJV8",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 8,
+                    "duration": 91
+                }
+            },
+            {
+                "tag": "#GYVL0RGC2",
+                "name": "paav",
+                "townhallLevel": 16,
+                "mapPosition": 18,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LGLCJ9RGR",
+                    "defenderTag": "#GYVL0RGC2",
+                    "stars": 2,
+                    "destructionPercentage": 91,
+                    "order": 57,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#PJCQV0GQL",
+                "name": "LHEN315",
+                "townhallLevel": 17,
+                "mapPosition": 10,
+                "attacks": [
+                    {
+                        "attackerTag": "#PJCQV0GQL",
+                        "defenderTag": "#80QG2JLRV",
+                        "stars": 1,
+                        "destructionPercentage": 92,
+                        "order": 62,
+                        "duration": 92
+                    },
+                    {
+                        "attackerTag": "#PJCQV0GQL",
+                        "defenderTag": "#8008L28CG",
+                        "stars": 2,
+                        "destructionPercentage": 87,
+                        "order": 64,
+                        "duration": 106
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LC9Q0PLY0",
+                    "defenderTag": "#PJCQV0GQL",
+                    "stars": 2,
+                    "destructionPercentage": 95,
+                    "order": 21,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#GJ9Q8J00J",
+                "name": "Mohit",
+                "townhallLevel": 16,
+                "mapPosition": 8,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#80QG2JLRV",
+                    "defenderTag": "#GJ9Q8J00J",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 27,
+                    "duration": 137
+                }
+            },
+            {
+                "tag": "#98C9Y8P0C",
+                "name": "BOWLER",
+                "townhallLevel": 16,
+                "mapPosition": 21,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GCCV22UJP",
+                    "defenderTag": "#98C9Y8P0C",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 56,
+                    "duration": 137
+                }
+            },
+            {
+                "tag": "#PQUQUP2PP",
+                "name": "akash noisy",
+                "townhallLevel": 16,
+                "mapPosition": 41,
+                "attacks": [
+                    {
+                        "attackerTag": "#PQUQUP2PP",
+                        "defenderTag": "#L9YGR98PY",
+                        "stars": 2,
+                        "destructionPercentage": 69,
+                        "order": 44,
+                        "duration": 86
+                    },
+                    {
+                        "attackerTag": "#PQUQUP2PP",
+                        "defenderTag": "#G0PV8UY8U",
+                        "stars": 2,
+                        "destructionPercentage": 90,
+                        "order": 45,
+                        "duration": 94
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#9LP8UGCQJ",
+                    "defenderTag": "#PQUQUP2PP",
+                    "stars": 2,
+                    "destructionPercentage": 84,
+                    "order": 38,
+                    "duration": 70
+                }
+            },
+            {
+                "tag": "#Q0QPRCGV",
+                "name": "FYZUL~~",
+                "townhallLevel": 15,
+                "mapPosition": 36,
+                "attacks": [
+                    {
+                        "attackerTag": "#Q0QPRCGV",
+                        "defenderTag": "#GPQL20QVP",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 73,
+                        "duration": 137
+                    },
+                    {
+                        "attackerTag": "#Q0QPRCGV",
+                        "defenderTag": "#80QG2JLRV",
+                        "stars": 2,
+                        "destructionPercentage": 66,
+                        "order": 74,
+                        "duration": 161
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#20VLJ9URJ",
+                    "defenderTag": "#Q0QPRCGV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 79,
+                    "duration": 123
+                }
+            },
+            {
+                "tag": "#YJ2Q9P9RQ",
+                "name": "mohit",
+                "townhallLevel": 16,
+                "mapPosition": 9,
+                "attacks": [
+                    {
+                        "attackerTag": "#YJ2Q9P9RQ",
+                        "defenderTag": "#LC9Q0PLY0",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 24,
+                        "duration": 164
+                    },
+                    {
+                        "attackerTag": "#YJ2Q9P9RQ",
+                        "defenderTag": "#2JR2YVLCG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 25,
+                        "duration": 140
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LC9Q0PLY0",
+                    "defenderTag": "#YJ2Q9P9RQ",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 23,
+                    "duration": 128
+                }
+            },
+            {
+                "tag": "#YJ2GQ8YYQ",
+                "name": "optimus prime",
+                "townhallLevel": 16,
+                "mapPosition": 14,
+                "attacks": [
+                    {
+                        "attackerTag": "#YJ2GQ8YYQ",
+                        "defenderTag": "#GL20PQ89J",
+                        "stars": 2,
+                        "destructionPercentage": 98,
+                        "order": 3,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#YJ2GQ8YYQ",
+                        "defenderTag": "#L8CYR29G2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 4,
+                        "duration": 152
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8008L28CG",
+                    "defenderTag": "#YJ2GQ8YYQ",
+                    "stars": 2,
+                    "destructionPercentage": 85,
+                    "order": 41,
+                    "duration": 167
+                }
+            },
+            {
+                "tag": "#LYRUV9QUY",
+                "name": "Jishad",
+                "townhallLevel": 16,
+                "mapPosition": 38,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GPQL20QVP",
+                    "defenderTag": "#LYRUV9QUY",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 87,
+                    "duration": 179
+                }
+            },
+            {
+                "tag": "#PCLGJ0VUC",
+                "name": "Dragon Riderp.l",
+                "townhallLevel": 16,
+                "mapPosition": 19,
+                "attacks": [
+                    {
+                        "attackerTag": "#PCLGJ0VUC",
+                        "defenderTag": "#PPJV80YP9",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 13,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#PCLGJ0VUC",
+                        "defenderTag": "#Q8VGQYJQQ",
+                        "stars": 2,
+                        "destructionPercentage": 83,
+                        "order": 14,
+                        "duration": 122
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#C0GVUG20",
+                    "defenderTag": "#PCLGJ0VUC",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 7,
+                    "duration": 147
+                }
+            },
+            {
+                "tag": "#GGRPLG2U2",
+                "name": "Triton",
+                "townhallLevel": 16,
+                "mapPosition": 31,
+                "attacks": [
+                    {
+                        "attackerTag": "#GGRPLG2U2",
+                        "defenderTag": "#9LP8UGCQJ",
+                        "stars": 2,
+                        "destructionPercentage": 68,
+                        "order": 54,
+                        "duration": 144
+                    },
+                    {
+                        "attackerTag": "#GGRPLG2U2",
+                        "defenderTag": "#YVCCRPY80",
+                        "stars": 2,
+                        "destructionPercentage": 94,
+                        "order": 58,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L8CYR29G2",
+                    "defenderTag": "#GGRPLG2U2",
+                    "stars": 2,
+                    "destructionPercentage": 87,
+                    "order": 93,
+                    "duration": 81
+                }
+            },
+            {
+                "tag": "#L2VGUPR0C",
+                "name": "mickey",
+                "townhallLevel": 16,
+                "mapPosition": 26,
+                "attacks": [
+                    {
+                        "attackerTag": "#L2VGUPR0C",
+                        "defenderTag": "#92V8U28VR",
+                        "stars": 2,
+                        "destructionPercentage": 98,
+                        "order": 70,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#L2VGUPR0C",
+                        "defenderTag": "#Q8CLV2VVC",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 72,
+                        "duration": 169
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GUQ088QJR",
+                    "defenderTag": "#L2VGUPR0C",
+                    "stars": 2,
+                    "destructionPercentage": 66,
+                    "order": 71,
+                    "duration": 91
+                }
+            },
+            {
+                "tag": "#QU28Q2YYV",
+                "name": "Barasa \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "attacks": [
+                    {
+                        "attackerTag": "#QU28Q2YYV",
+                        "defenderTag": "#YQL0CR8L2",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 34,
+                        "duration": 160
+                    },
+                    {
+                        "attackerTag": "#QU28Q2YYV",
+                        "defenderTag": "#2UQ8UUPPJ",
+                        "stars": 2,
+                        "destructionPercentage": 91,
+                        "order": 82,
+                        "duration": 180
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#2UQ8UUPPJ",
+                    "defenderTag": "#QU28Q2YYV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 61,
+                    "duration": 87
+                }
+            },
+            {
+                "tag": "#9RYU2VVUV",
+                "name": "Harris Joe",
+                "townhallLevel": 17,
+                "mapPosition": 44,
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#LQP02GCQ2",
+                    "defenderTag": "#9RYU2VVUV",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 85,
+                    "duration": 93
+                }
+            },
+            {
+                "tag": "#L0QV90P9",
+                "name": "Jack",
+                "townhallLevel": 16,
+                "mapPosition": 7,
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#8UJYJ8P88",
+                    "defenderTag": "#L0QV90P9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 47,
+                    "duration": 78
+                }
+            },
+            {
+                "tag": "#8QPJ8YVQL",
+                "name": "THE DARK KNIGHT",
+                "townhallLevel": 16,
+                "mapPosition": 17,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GCCV22UJP",
+                    "defenderTag": "#8QPJ8YVQL",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 65,
+                    "duration": 148
+                }
+            },
+            {
+                "tag": "#LGYYGLR02",
+                "name": "Kenny Rogers",
+                "townhallLevel": 16,
+                "mapPosition": 15,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GL20PQ89J",
+                    "defenderTag": "#LGYYGLR02",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 49,
+                    "duration": 120
+                }
+            },
+            {
+                "tag": "#Y2YPLQJ0L",
+                "name": "Biki",
+                "townhallLevel": 15,
+                "mapPosition": 28,
+                "attacks": [
+                    {
+                        "attackerTag": "#Y2YPLQJ0L",
+                        "defenderTag": "#2RGV8YVR8",
+                        "stars": 2,
+                        "destructionPercentage": 95,
+                        "order": 90,
+                        "duration": 121
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QGJVJJYRY",
+                    "defenderTag": "#Y2YPLQJ0L",
+                    "stars": 2,
+                    "destructionPercentage": 91,
+                    "order": 51,
+                    "duration": 180
+                }
+            },
+            {
+                "tag": "#9JPG8R9G9",
+                "name": "megrela",
+                "townhallLevel": 16,
+                "mapPosition": 32,
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#L8CYR29G2",
+                    "defenderTag": "#9JPG8R9G9",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 92,
+                    "duration": 157
+                }
+            },
+            {
+                "tag": "#82JL9RC0L",
+                "name": "jay",
+                "townhallLevel": 15,
+                "mapPosition": 27,
+                "attacks": [
+                    {
+                        "attackerTag": "#82JL9RC0L",
+                        "defenderTag": "#8UJYJ8P88",
+                        "stars": 2,
+                        "destructionPercentage": 98,
+                        "order": 20,
+                        "duration": 180
+                    },
+                    {
+                        "attackerTag": "#82JL9RC0L",
+                        "defenderTag": "#8RCCPCG98",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 30,
+                        "duration": 161
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#QGJVJJYRY",
+                    "defenderTag": "#82JL9RC0L",
+                    "stars": 2,
+                    "destructionPercentage": 87,
+                    "order": 52,
+                    "duration": 178
+                }
+            },
+            {
+                "tag": "#L2VY8CP8L",
+                "name": "Cosmick",
+                "townhallLevel": 15,
+                "mapPosition": 43,
+                "attacks": [
+                    {
+                        "attackerTag": "#L2VY8CP8L",
+                        "defenderTag": "#QJ2CRYLUG",
+                        "stars": 3,
+                        "destructionPercentage": 100,
+                        "order": 80,
+                        "duration": 130
+                    },
+                    {
+                        "attackerTag": "#L2VY8CP8L",
+                        "defenderTag": "#Y0PVYP0VP",
+                        "stars": 2,
+                        "destructionPercentage": 93,
+                        "order": 83,
+                        "duration": 153
+                    }
+                ],
+                "opponentAttacks": 2,
+                "bestOpponentAttack": {
+                    "attackerTag": "#R0RC0CQ2C",
+                    "defenderTag": "#L2VY8CP8L",
+                    "stars": 3,
+                    "destructionPercentage": 100,
+                    "order": 104,
+                    "duration": 142
+                }
+            },
+            {
+                "tag": "#QU9G8RV20",
+                "name": "Shivansh",
+                "townhallLevel": 15,
+                "mapPosition": 29,
+                "attacks": [
+                    {
+                        "attackerTag": "#QU9G8RV20",
+                        "defenderTag": "#GPL8LVU99",
+                        "stars": 2,
+                        "destructionPercentage": 74,
+                        "order": 99,
+                        "duration": 128
+                    }
+                ],
+                "opponentAttacks": 1,
+                "bestOpponentAttack": {
+                    "attackerTag": "#GQ2QCLVP0",
+                    "defenderTag": "#QU9G8RV20",
+                    "stars": 2,
+                    "destructionPercentage": 75,
+                    "order": 22,
+                    "duration": 113
+                }
+            }
+        ]
+    }
+}
